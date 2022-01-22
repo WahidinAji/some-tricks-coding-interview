@@ -1,7 +1,7 @@
 # some-tricks-coding-interview
 some tricks of coding interview basic logic
 
-Write with 🤍 and [Golang](https://go.dev/)
+Write in with 🤍 and [Golang](https://go.dev/)
 ## LIST
 * [Math Factorial](https://github.com/WahidinAji/math-factorial)
 * [Data Structure of Set](https://github.com/WahidinAji/struktur-data-set)
